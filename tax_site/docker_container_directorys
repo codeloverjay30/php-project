@@ -1,0 +1,4 @@
+/nfu/course/5th/DBMS/final_project/php/php_project/tax_site/modules
+/var/www/html/nfu/course/5th/DBMS/final_project/php/php_project/tax_site/modules
+/etc/apache2/sites-enabled/000-default.conf
+conf-available/serve-cgi-bin.conf
